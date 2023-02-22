@@ -132,7 +132,9 @@ CHANNEL_LAYERS = {
     "default": {
         "BACKEND": "channels_redis.core.RedisChannelLayer",
         "CONFIG": {
-            "hosts": [("127.0.0.1", 6379)],
+            "hosts": [(":nx748p3cphpczdu@remote.runflare.com", 30175/0)],
         },
     },
 }
+# redis://:nx748p3cphpczdu@remote.runflare.com:30175/0
+# remote.runflare.com:
