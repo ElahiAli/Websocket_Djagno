@@ -136,5 +136,3 @@ CHANNEL_LAYERS = {
         },
     },
 }
-# redis://:nx748p3cphpczdu@remote.runflare.com:30175/0
-# remote.runflare.com:
